@@ -27,9 +27,15 @@ I'm a software developer who currently works at [iRobot](https://www.irobot.com/
 - HTML/Handlebars
 - CSS/SCSS
 - JSTL (JSPs)
+- Hybris
+- AEM
+- Figma
+- Adobe Suite
+- A lot of other things 😁
 - HackySack
 - Ultimate
 - Volleyball (outside hitter)
+- A lot of other sports/activities
 
 ## Contact Me
 
