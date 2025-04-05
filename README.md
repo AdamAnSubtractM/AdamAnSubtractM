@@ -78,6 +78,7 @@ Previously at [DICK's Sporting Goods](https://www.dickssportinggoods.com/), [WES
 - HackySack wizard 🌀
 - Ultimate Frisbee
 - Volleyball (outside hitter)
+- A lot of other sports/activities
 
 ---
 
